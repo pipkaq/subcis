@@ -1,2 +1,2 @@
+gunicorn
 flask
-flask_sqlalchemy
